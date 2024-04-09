@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything related to Google Cloud Platform (GCP) and data analytics.**
 
-- 🤝 I’d love to hear about **your stories on learning new technologies.**
+- 🤝 I love hearing about **others' stories on learning new technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
